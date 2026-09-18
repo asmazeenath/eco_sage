@@ -1,0 +1,21 @@
+AGROFORESTRY
+
+Agroforestry integrates trees with crops or other agricultural
+systems.
+
+Trees can contribute to habitat structure, landscape diversity,
+microclimate regulation and soil protection.
+
+The suitability of agroforestry depends on local climate,
+water availability, soil conditions and species selection.
+
+Relevant metrics:
+tree cover
+habitat diversity
+soil moisture
+soil organic matter
+temperature
+biodiversity indicators
+
+Source:
+FAO agroforestry resources.

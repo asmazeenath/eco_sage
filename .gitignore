@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# ChromaDB
+chroma_db/
+
+# Generated files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

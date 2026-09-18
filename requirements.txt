@@ -1,0 +1,10 @@
+streamlit
+google-adk
+chromadb 
+pypdf
+google-genai
+pandas
+pydantic
+python-dotenv
+torch
+torchvision

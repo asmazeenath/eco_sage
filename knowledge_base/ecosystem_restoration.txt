@@ -1,0 +1,198 @@
+ECOSYSTEM RESTORATION
+
+Ecosystem restoration is the process of assisting the recovery of
+ecosystems that have been degraded, damaged or destroyed.
+
+Restoration should be based on the ecological conditions of the
+site, including climate, soil, water availability, land use and
+biodiversity.
+
+IMPORTANT ENVIRONMENTAL CONNECTIONS
+
+1. SOIL HEALTH AND RESTORATION
+
+Degraded soils can have low organic matter, poor structure,
+reduced water retention and reduced biological activity.
+
+Restoring vegetation and increasing organic inputs can support
+soil structure, nutrient cycling and soil biological activity.
+
+Relevant metrics:
+- Soil organic matter
+- Soil organic carbon
+- Soil moisture
+- Soil pH
+- Soil biological activity
+
+
+2. WATER AVAILABILITY AND RESTORATION
+
+Water availability strongly influences vegetation establishment
+and species survival.
+
+Restoration strategies should consider rainfall, soil moisture,
+groundwater availability and drought conditions.
+
+In water-limited ecosystems, restoration interventions should
+use locally appropriate native species and avoid introducing
+vegetation that requires excessive additional water.
+
+Relevant metrics:
+- Annual rainfall
+- Soil moisture
+- Groundwater level
+- Water availability
+- Drought index
+
+
+3. HABITAT AND BIODIVERSITY
+
+Restoration can increase habitat quality and structural
+diversity by establishing native vegetation, restoring
+degraded habitat and improving connectivity between habitat
+patches.
+
+Increasing habitat diversity can provide food, shelter and
+breeding resources for different organisms.
+
+Relevant metrics:
+- Species richness
+- Habitat diversity
+- Habitat loss
+- Vegetation cover
+- Wildlife population indicators
+
+
+4. LAND-USE AND HABITAT FRAGMENTATION
+
+Conversion of natural ecosystems into agricultural, urban or
+other intensive land uses can reduce habitat area and fragment
+remaining habitat.
+
+Restoration should therefore consider the surrounding landscape
+rather than treating an isolated restoration site independently.
+
+Connecting separated habitat patches can improve landscape
+connectivity and provide movement pathways for wildlife.
+
+
+5. CLIMATE AND RESTORATION
+
+Temperature, rainfall and drought conditions influence whether
+restoration projects can establish and persist.
+
+Climate stress can increase mortality of newly established
+vegetation.
+
+Restoration planning should therefore consider both current
+climate conditions and potential future climate stress.
+
+
+6. NATIVE VEGETATION
+
+Using locally appropriate native species can help restore
+ecosystem structure and provide habitat for organisms adapted
+to local environmental conditions.
+
+Species selection should consider:
+- Local climate
+- Soil conditions
+- Water availability
+- Existing vegetation
+- Ecosystem type
+
+
+7. RIPARIAN RESTORATION
+
+Vegetated areas along rivers and streams can provide habitat,
+reduce erosion and contribute to ecosystem connectivity.
+
+Riparian restoration should consider water availability,
+vegetation condition, erosion and surrounding land use.
+
+
+8. RESTORATION MONITORING
+
+Restoration should be monitored using measurable indicators.
+
+Useful indicators include:
+
+- Vegetation cover
+- Species richness
+- Habitat diversity
+- Soil organic matter
+- Soil moisture
+- Tree survival
+- Water availability
+- Wildlife population indicators
+- Habitat loss
+- Land-use change
+
+
+RESTORATION TIME HORIZON
+
+Short term:
+- Establish vegetation
+- Reduce exposed soil
+- Reduce erosion
+- Improve habitat resources
+
+Medium term:
+- Increase vegetation structure
+- Improve soil condition
+- Increase habitat diversity
+- Improve ecological connectivity
+
+Long term:
+- Recovery of ecosystem functions
+- Increased biodiversity
+- Improved landscape resilience
+- Recovery of wildlife habitat
+
+
+MULTI-METRIC RESTORATION REASONING
+
+Restoration recommendations should consider multiple
+environmental variables together.
+
+Example:
+
+Low rainfall
++
+Low soil moisture
++
+High temperature
++
+Degraded land
+
+can indicate strong water and climate constraints.
+
+In this situation, restoration should prioritize
+water-efficient, locally appropriate vegetation and
+soil-protection strategies rather than simply planting
+large numbers of trees.
+
+Another example:
+
+High habitat loss
++
+High forest loss
++
+Low wildlife population index
+
+can indicate habitat degradation and fragmentation.
+
+Possible restoration approaches include restoring native
+vegetation patches and improving connectivity between
+remaining habitats.
+
+Scientific grounding should be checked against the relevant
+research literature before making quantitative claims.
+
+SOURCE CATEGORIES
+
+Food and Agriculture Organization (FAO)
+United Nations Environment Programme (UNEP)
+Intergovernmental Panel on Climate Change (IPCC)
+Society for Ecological Restoration (SER)
+Peer-reviewed ecological research

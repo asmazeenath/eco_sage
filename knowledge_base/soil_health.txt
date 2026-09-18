@@ -1,0 +1,22 @@
+SOIL HEALTH
+
+Soil organic matter is an important indicator of soil health.
+Organic matter contributes to soil structure, water retention,
+nutrient cycling and biological activity.
+
+Maintaining vegetation cover and adding organic residues can
+support soil biological processes and reduce erosion.
+
+Soil moisture interacts with organic matter and climate.
+Low rainfall combined with low soil moisture can increase
+drought stress.
+
+Relevant metrics:
+soil organic matter
+soil moisture
+soil pH
+water availability
+soil biological activity
+
+Source:
+FAO soil and soil health resources.
