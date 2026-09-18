@@ -10,9 +10,9 @@ from google import genai
 from rag.retriever import retrieve_scientific_evidence
 
 
-# =========================================================
+
 # LOAD ENVIRONMENT VARIABLES
-# =========================================================
+
 
 load_dotenv()
 
@@ -24,29 +24,21 @@ if not API_KEY:
     )
 
 
-# =========================================================
+
 # GEMINI CONFIGURATION
-# =========================================================
 
 client = genai.Client(
     api_key=API_KEY
 )
 
-# Use a model that is available in your Gemini setup
+
 MODEL = "gemini-3.5-flash-lite"
-
-
-# =========================================================
-# DATASET PATHS
-# =========================================================
 
 ENVIRONMENTAL_FILE = "data/environmental dataset.csv"
 SOIL_FILE = "data/soil.csv"
 
 
-# =========================================================
 # LOAD DATASETS
-# =========================================================
 
 def load_dataset(path):
 
@@ -83,10 +75,6 @@ soil_df = load_dataset(
 )
 
 
-# =========================================================
-# ENVIRONMENTAL RISK ENGINE
-# =========================================================
-
 def calculate_risks(data):
 
     risks = []
@@ -107,9 +95,6 @@ def calculate_risks(data):
     ).lower()
 
 
-    # -----------------------------------------------------
-    # SOIL RISKS
-    # -----------------------------------------------------
 
     if organic_matter is not None:
 
@@ -155,10 +140,8 @@ def calculate_risks(data):
                 "alkaline_soil"
             )
 
-
-    # -----------------------------------------------------
     # CLIMATE RISKS
-    # -----------------------------------------------------
+
 
     if rainfall is not None:
 
@@ -178,9 +161,6 @@ def calculate_risks(data):
             )
 
 
-    # -----------------------------------------------------
-    # LAND USE RISKS
-    # -----------------------------------------------------
 
     if "monoculture" in land_use:
 
@@ -202,19 +182,12 @@ def calculate_risks(data):
 
     return risks
 
-
-# =========================================================
 # MULTI-METRIC REASONING
-# =========================================================
 
 def generate_reasoning(data, risks):
 
     reasoning = []
-
-
-    # -----------------------------------------------------
     # RAINFALL + SOIL MOISTURE
-    # -----------------------------------------------------
 
     if (
         "low_rainfall" in risks
@@ -230,11 +203,6 @@ def generate_reasoning(data, risks):
             "Low rainfall combined with low soil "
             "moisture indicates water stress."
         )
-
-
-    # -----------------------------------------------------
-    # ORGANIC MATTER + WATER
-    # -----------------------------------------------------
 
     if (
         (
@@ -256,11 +224,8 @@ def generate_reasoning(data, risks):
             "retention and increase drought sensitivity."
         )
 
-
-    # -----------------------------------------------------
     # MONOCULTURE + BIODIVERSITY
-    # -----------------------------------------------------
-
+   
     if "low_crop_diversity" in risks:
 
         reasoning.append(
